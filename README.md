@@ -1,6 +1,6 @@
 ## revanced-filters
 
-**The **IMPORTANT** rule is that you would add, when faced!
+The **IMPORTANT** rule is that you would add, when faced!
 
 # Hide videos labeled with "Hyped", "hyped", "Auto-dubbed", "Free with ads":
 badge$Hyped  
